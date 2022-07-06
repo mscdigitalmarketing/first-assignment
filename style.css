@@ -63,7 +63,7 @@ background-repeat: no-repeat;
     font-size: 30px;
     width: 160px;
     height: 40px;
-    background: sienna;
+    background: rgb(207, 153, 127);
     margin: 20px;
     box-sizing: border-box;
     color: aliceblue;
@@ -73,11 +73,12 @@ background-repeat: no-repeat;
     font-size: 30px;
     width: 160px;
     height: 40px;
-    background: sienna;
+    background: rgb(207, 153, 127);
     margin: 20px;
     box-sizing: border-box;
     color: aliceblue;
     border-top: 10%;
+    border: 4px solid blue;
 }
 
  .head03{ 
