@@ -21,7 +21,7 @@ background-repeat: no-repeat;
 
 .topbanner-text p{ 
     font-size: 25px;
-    color: azure;
+    color: rgb(255, 255, 255);
 }
 
 .button01{ 
@@ -166,12 +166,15 @@ background-repeat: no-repeat;
 .doublesec01{  display: flex;}
 .half-page{
     width: 50%;
-    padding: 5%;
-}
+    padding: 5%;}
+
 .half-page img{
     width: 90%;
 }
 
+.half-page p{ 
+    text-align: justify;
+}
 .doublesec02{  display: flex;
             padding-bottom: 10%;}
 .half-page{
@@ -185,7 +188,7 @@ background-repeat: no-repeat;
 .container{
     background: rgb(201, 140, 118);
     position: absolute;
-    top: 340%;
+    top: 400%;
     left: 50%;
     transform: translate(-50%, -50%);
     width: 100%;
